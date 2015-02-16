@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteToMySQLSync</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Users</string>
+    <string name="plus">"+"</string>
+    <string name="adduser">"Add User"</string>
+    <string name="addUser">"User"</string>
+    <string name="hintAddUser">"Enter User's Name"</string>
+    <string name="hintAddMobile">"Enter User's Mobile number"</string>
+    <string name="addMobileNumber">Mobile Number</string>
+    <string name="save">"Save"</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="adduseractivitylabel">"Add User Activity"</string>
+
+</resources>
